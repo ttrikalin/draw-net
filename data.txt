@@ -1,0 +1,8 @@
+Trikalinos 2001	1	drug1	drug1 + dose
+Trikalinos 2001	2	drug2	drug2 + dose
+Dahabreh 2003	1	drug1	drug1 + dose
+Dahabreh 2003	2	drug2	drug2 + dose
+Kitsios 1999	2	drug2	drug2 + dose
+Kitsios 1999	1	drug1	drug1 + dose
+Lau 1989	1	drug1	drug1 + dose
+Lau 1989	2	drug1	drug1 + dose1
